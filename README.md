@@ -101,7 +101,7 @@ npm install yarn -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/OhMyGuus/crewlink-server.git
+git clone https://github.com/OhMyGuus/BetterCrewLink-server.git
 cd crewlink-server
 ```
 2. Install NPM packages
